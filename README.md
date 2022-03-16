@@ -1,26 +1,25 @@
-# Base do exercício de construção de um formulário em React + Typescript.
+# Base of the exercise of building a form in React + Typescript.
 
-## Instruções
+## Instructions
 
-Clone o projeto e em seguida rode o comando para instalar as dependências:
+Clone the project and then run the command to install the dependencies:
 
 `npm install`
 
-Após instaladas as dependências, o comando para rodar o projeto é:
-
+After installing the dependencies, the command to run the project is:
 `npm run dev`
 
-Ótimo. Boa sorte!
+Excellent. Good luck!
 
 ---
 
-## Resolução do exercício
+## Exercise resolution
 
-O exercício resolvido está no arquivo `src/App_RESOLVIDO.tsx`.
+The solved exercise is in the file `src/App_RESOLVIDO.tsx`.
 
-OBS: Não olhe o arquivo antes de tentar fazer sozinho, por favor.
+NOTE: Do not look at the file before trying to do it yourself, please.
 
 ---
 
-## Dúvidas?
-Nos envie um e-mail para suporte@b7web.com.br que te ajudamos com prazer.
+## Doubts?
+Send us an email to suporte@b7web.com.br and we will gladly help you.
